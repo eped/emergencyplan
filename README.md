@@ -1,6 +1,7 @@
-# ePed drift
+# ePed webbsajt med läkemedelsinstruktioner
 
-Här finns program och tillhörande dokumentation om:
+Här finns program, material och tillhörande dokumentation om:
 
- * Utveckling av back-up funktion inom Karolinska till säkerhetsdator.
- * Ytterligare funktioner
+ * ePed:s webbsajt för publicering av läkemedelsinstruktioner.
+ * Program och instruktioner för att säkerställa drift och tillgänglighet 
+   till webbsajten 
